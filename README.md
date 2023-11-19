@@ -58,7 +58,6 @@ This project implements an intrusion detection system using federated learning. 
 
 ## Usage
 
-Describe how to use your project. Include steps for data preprocessing, model training, and any other relevant details.
 
 ```bash
 python main.py
